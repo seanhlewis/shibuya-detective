@@ -30,5 +30,5 @@ The assets for this game that are used are all open source, below are the credit
 - LPC Submissions Merged 2.0 by OpenGameArt
 
 
-<img src="https://user-images.githubusercontent.com/96705270/169404646-61c79c52-f430-4d0d-a271-a2e53f52a1a7.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169404946-46cc7248-54e9-43b1-9b6f-4a15905dd209.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169404935-83a3bbd1-fc02-4cb7-a5e1-675441f72677.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169404937-abe62c5b-4e12-4f22-ac2e-a8ec4557cc94.png" width="400" />
+<img src="https://user-images.githubusercontent.com/96705270/169404646-61c79c52-f430-4d0d-a271-a2e53f52a1a7.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169404935-83a3bbd1-fc02-4cb7-a5e1-675441f72677.png" width="400" />  <img src="https://user-images.githubusercontent.com/96705270/169404946-46cc7248-54e9-43b1-9b6f-4a15905dd209.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169404937-abe62c5b-4e12-4f22-ac2e-a8ec4557cc94.png" width="400" />
 
